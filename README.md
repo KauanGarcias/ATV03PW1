@@ -1,2 +1,5 @@
 # ATV03PW1
-mais um projeto
+## Curso Técnico Etec
+### Programação Web
+### Kauan Garcia
+Site com propriedades de layout e animações simples, simulando a venda do Iphone 16
