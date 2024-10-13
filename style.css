@@ -1,0 +1,48 @@
+*{
+    color: white;
+}
+.body{
+    background-color: #008080;
+}
+.titulo{
+    text-align: center;
+    background-color: #008080;
+}
+.animacao{
+    animation: apagar 3s ease-in-out forwards;
+    animation-delay: 2s;
+    text-align: center;
+    display: flex;
+    background-color: #008080;
+}
+@keyframes apagar {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.recursos{
+    background-color: #008080;
+    display: grid;
+}
+.especificacoes{
+    background-color: #008080;
+    
+}
+.coluna {
+    flex-direction: column;
+}
+.preco{
+    text-align: center;
+    background-color: #008080;
+}
+.rodape{
+    background-color: black;
+    color: white;
+    
+  
+    font-size: 14px;
+    font-family: helvetica;
+}
